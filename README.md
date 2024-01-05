@@ -1,4 +1,4 @@
-# Descargador de Mensajes de Canales/Grupos de Telegram
+# Descarga Videos e Imagenes de Canales y Grupos de Telegram
 
 ## Descripción
 

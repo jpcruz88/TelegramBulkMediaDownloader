@@ -1,4 +1,4 @@
-# Descarga Videos e Imagenes de Canales y Grupos de Telegram
+# Descarga Masiva de Videos e Imagenes de Chats, Canales y Grupos de Telegram
 
 ## Descripción
 

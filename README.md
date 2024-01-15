@@ -25,7 +25,7 @@ Este script de Python está diseñado para interactuar con canales y grupos de T
 
 1. Asegúrate de que Python 3.6 o superior esté instalado.
 2. Asegúrate de tener pip, el gestor de paquetes de Python, instalado en tu sistema.
-3. Asegúrate de tener pip, el gestor de paquetes de Python, instalado en tu sistema.
+3. Instala las bibliotecas requeridas utilizando requirements.txt:
     ```bash
     pip install -r requirements.txt
     ```

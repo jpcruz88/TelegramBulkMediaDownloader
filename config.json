@@ -1,4 +1,5 @@
 {
     "TELEGRAM_API_ID": "",
-    "TELEGRAM_API_HASH": ""
+    "TELEGRAM_API_HASH": "",
+    "MAX_SIMULTANEOUS_DOWNLOADS": 5
 }
